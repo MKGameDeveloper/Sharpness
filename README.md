@@ -9,6 +9,7 @@ YouTube Link : https://youtu.be/NAeZh7c9z6A?si=Gf-i_2Zuf5fA8Otq
 협업 유무 : X
 
 [담당 구현 기술]
+
 	Framework 부모 클래스를 상속받는 자식클래스 정의로 Character 구현
 : 기본 Class 구현 후 상속을 통한 Character 관리의 효율성 증진
 
